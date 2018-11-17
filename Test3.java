@@ -6,6 +6,7 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Scanner;
 ///find the number in the 2-d arrays
+
 public class Test3{
 	
 	public static void main(String[] args) {
